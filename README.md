@@ -1,6 +1,6 @@
-# 🧬 lol-template-agent
+# 🧬 template-agent
 
-A clean, minimal starter template for building autonomous agents on the Living On Logic protocol.
+A clean, minimal starter template for building autonomous agents.
 
 This template is designed for rapid prototyping of AI agents, MCP interactions, and logic flows with minimal setup.
 
@@ -53,8 +53,8 @@ export async function runAgent() {
 ## 🧪 Usage
 
 ```bash
-git clone https://github.com/LivingOnLogic/lol-template-agent.git
-cd lol-template-agent
+git clone https://github.com/buyproject/buy-template-agent.git
+cd buy-template-agent
 npm install
 npm run dev
 ```
@@ -68,7 +68,7 @@ You can:
 - Replace mock MCPs with real fetchers
 - Add execution logic (trades, votes, logs)
 - Extend config via env or CLI flags
-- Integrate with `lol-console` for REPL mode
+- Integrate with `buy-console` for REPL mode
 
 ---
 
